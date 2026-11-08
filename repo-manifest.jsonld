@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/vscode-zenml/commit/e43dcca1a0a3870cf1b821e13b6bbda1114df498",
       "git:hexsha": "e43dcca1a0a3870cf1b821e13b6bbda1114df498",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zenml-io/vscode-zenml/commit/e93f94a45f46922f2cca116f1ad204f3107402c6",
